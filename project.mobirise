@@ -52,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "DarkNet Recon",
+        "meta_descr": "Live training by Joseph Mlodzianowski and Omar Santos. This live and interactive training is designed to help you perform passive and active reconnaissance in ethical hacking and bug bounty hunting engagements. You will learn intermediate-to-advanced recon methodologies using open source intelligence (OSINT). In this training you will also learn how to perform dark web research and reconnaissance. You will learn how to use Tor, proxies, and proxychains, and even how to create your own VPN servers in cloud environments. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
