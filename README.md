@@ -1,4 +1,4 @@
 # Hands-on Bug Hunting Active and Passive Reconnaissance and Dark Web Research training website
-This is the code for the DarkNetRecon website created to provide instructions to attendees of the Hands-on Bug Hunting Active and Passive Reconnaissance and Dark Web Research training provided by Joseph Mlodzianowski and Omar Santos in O'Reilly via Pearson.
+This is the code for the [DarkNetRecon website](https://darknetrecon.com) created to provide instructions to attendees of the Hands-on Bug Hunting Active and Passive Reconnaissance and Dark Web Research training provided by Joseph Mlodzianowski and Omar Santos in O'Reilly via Pearson.
 
 This live and interactive training is designed to help you perform passive and active reconnaissance in ethical hacking and bug bounty hunting engagements. You will learn intermediate-to-advanced recon methodologies using open source intelligence (OSINT). In this training you will also learn how to perform dark web research and reconnaissance. You will learn how to use Tor, proxies and proxychains, and even how to create your own VPN servers in cloud environments. 
